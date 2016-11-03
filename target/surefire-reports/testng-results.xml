@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="17247" started-at="2016-11-03T11:47:54Z" finished-at="2016-11-03T11:48:11Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="17247" started-at="2016-11-03T11:47:54Z" finished-at="2016-11-03T11:48:11Z">
+      <class name="com.OrangeHRMS.Admin.DemoTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.OrangeHRMS.Admin.DemoTest@3796751b]" name="beforeClass" is-config="true" duration-ms="11245" started-at="2016-11-03T17:17:54Z" finished-at="2016-11-03T17:18:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.OrangeHRMS.Admin.DemoTest@3796751b]" name="f" duration-ms="5403" started-at="2016-11-03T17:18:05Z" finished-at="2016-11-03T17:18:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.OrangeHRMS.Admin.DemoTest@3796751b]" name="afterClass" is-config="true" duration-ms="578" started-at="2016-11-03T17:18:11Z" finished-at="2016-11-03T17:18:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.OrangeHRMS.Admin.DemoTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
